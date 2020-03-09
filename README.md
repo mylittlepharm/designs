@@ -1,5 +1,12 @@
 # designs
 
+## my
+
+### Oxytocin - cuddle
+
+![](mlp-oxytocin_cuddleMe-b.svg)
+![](mlp-oxytocin_cuddleMe-w.svg)
+
 ## originals / source
 
 ### Oxytocin
