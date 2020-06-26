@@ -15,4 +15,4 @@
 
 ### Paracetamol
 
-<a title="NEUROtiker / Public domain" href="https://commons.wikimedia.org/wiki/File:N-Acetyl-p-aminophenol.svg"><img width="256" alt="N-Acetyl-p-aminophenol" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/N-Acetyl-p-aminophenol.svg/256px-N-Acetyl-p-aminophenol.svg.png"></a>
+<a title="Benjah-bmm27 / Public domain" href="https://commons.wikimedia.org/wiki/File:Paracetamol-skeletal.svg"><img width="256" alt="Paracetamol-skeletal" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Paracetamol-skeletal.svg/256px-Paracetamol-skeletal.svg.png"></a>
